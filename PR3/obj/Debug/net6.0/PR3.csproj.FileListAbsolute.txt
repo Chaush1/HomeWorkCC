@@ -1,0 +1,15 @@
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/bin/Debug/net6.0/PR3
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/bin/Debug/net6.0/PR3.deps.json
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/bin/Debug/net6.0/PR3.runtimeconfig.json
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/bin/Debug/net6.0/PR3.dll
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/bin/Debug/net6.0/PR3.pdb
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/obj/Debug/net6.0/PR3.csproj.AssemblyReference.cache
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/obj/Debug/net6.0/PR3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/obj/Debug/net6.0/PR3.AssemblyInfoInputs.cache
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/obj/Debug/net6.0/PR3.AssemblyInfo.cs
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/obj/Debug/net6.0/PR3.csproj.CoreCompileInputs.cache
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/obj/Debug/net6.0/PR3.dll
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/obj/Debug/net6.0/refint/PR3.dll
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/obj/Debug/net6.0/PR3.pdb
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/obj/Debug/net6.0/PR3.genruntimeconfig.cache
+/Users/alexchaush/Desktop/HomeWorkCC/PR3/obj/Debug/net6.0/ref/PR3.dll
