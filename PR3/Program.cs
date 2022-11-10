@@ -1,13 +1,13 @@
 ﻿
 /*Напишите программу, которая принимает на вход 
 пятизначное число и проверяет, является ли оно палиндромом.
-
+*/
 Console.Write("Введите число из пяти цифр: ");
         string number = Console.ReadLine();
 
         void CheckingNumber(string number)
         {
-            if (number[0] == number[4] || number[1] == number[3])
+            if (number[0] == number[4] && number[1] == number[3])
             {
                 Console.WriteLine("ДА");
             }
@@ -18,7 +18,7 @@ Console.Write("Введите число из пяти цифр: ");
             CheckingNumber(number);
         }
         else Console.WriteLine("Ведите пятизначное число: ");
-*/
+
 
 /*Напишите программу, которая принимает на вход координаты двух точек 
 и находит расстояние между ними в 3D пространстве.
