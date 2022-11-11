@@ -1,0 +1,15 @@
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/bin/Debug/net6.0/PR5
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/bin/Debug/net6.0/PR5.deps.json
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/bin/Debug/net6.0/PR5.runtimeconfig.json
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/bin/Debug/net6.0/PR5.dll
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/bin/Debug/net6.0/PR5.pdb
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/obj/Debug/net6.0/PR5.csproj.AssemblyReference.cache
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/obj/Debug/net6.0/PR5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/obj/Debug/net6.0/PR5.AssemblyInfoInputs.cache
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/obj/Debug/net6.0/PR5.AssemblyInfo.cs
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/obj/Debug/net6.0/PR5.csproj.CoreCompileInputs.cache
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/obj/Debug/net6.0/PR5.dll
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/obj/Debug/net6.0/refint/PR5.dll
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/obj/Debug/net6.0/PR5.pdb
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/obj/Debug/net6.0/PR5.genruntimeconfig.cache
+/Users/alexchaush/Desktop/HomeWorkCC/PR5/obj/Debug/net6.0/ref/PR5.dll
